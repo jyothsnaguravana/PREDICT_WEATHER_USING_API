@@ -1,0 +1,11 @@
+Node js : server side js application 
+	  open source 
+	  cross site 
+	  non blocking api with good scalability 
+jdoddle for good compilation 
+
+
+uses call stack , queue in execution of serial actions or line of code 
+
+step 1 : npm init :- for managing packages and dependencies 
+step 2 : npm install express :- for secure and to built over http ,build API and end points ,handle middleware
